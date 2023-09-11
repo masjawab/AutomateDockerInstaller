@@ -26,5 +26,5 @@ $ bash AutomatedDockerInstaller/ubuntu/setup.sh
 ```
 ON CentOS Based
 ```bash
-$ bash AutomatedDockerInstaller/ubuntu/setup.sh
+$ bash AutomatedDockerInstaller/centosftrrrrrrrrrrrrrrrrrryut/setup.sh
 ```
