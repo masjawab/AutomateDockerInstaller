@@ -18,13 +18,13 @@ $ cd AutomateDockerInstaller/
 
 ON Debian Based
 ```bash
-$ bash AutomateDockerInstaller/debian/setup.sh
+$ bash debian/setup.sh
 ```
 ON Ubuntu Based
 ```bash
-$ bash AutomateDockerInstaller/ubuntu/setup.sh
+$ bash ubuntu/setup.sh
 ```
 ON CentOS Based
 ```bash
-$ bash AutomateDockerInstaller/centos/setup.sh
+$ bash centos/setup.sh
 ```
